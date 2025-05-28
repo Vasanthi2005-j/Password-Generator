@@ -36,7 +36,3 @@ A **Password Generator** is a tool that creates strong, random passwords to enha
 - View the generated password and copy it with one click.
 -A strength indicator shows how secure your password is.
 
-##🏷️ Internship Tag
-Micro-IT
-
-This project was created as part of a Micro IT Internship program.
